@@ -1,1 +1,1 @@
-Basics of rdkit (from official documentation) - Jupyter notebooks 
+compilation of basic molecule operations using rdkit
